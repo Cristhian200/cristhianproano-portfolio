@@ -22,18 +22,20 @@ Soy un profesional proactivo y orientado a resultados con experiencia en desarro
 
 ## 📂 Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías | Link |
-|---------|-------------|-------------|------|
-| 🔐 Ethical Hacking Lab | Simulación de ataques controlados y análisis de vulnerabilidades | Kali Linux, Wireshark | [Ver Repositorio](#) |
-| 📊 Power BI Dashboard | Análisis visual de accidentes de tránsito en EE. UU. | Power BI, Python, CSV | [Ver Repositorio](#) |
-| 🌐 Sistema Web Lavandería | Gestión de producción, comercialización y reportes | Flask, PostgreSQL, AWS | [Ver Repositorio](#) |
-| 🤖 Clasificador IA | Clasificador de diagnósticos médicos con Random Forest | Python, Scikit-learn | [Ver Repositorio](#) |
+## 📂 Proyectos Destacados
+
+| Proyecto                    | Descripción                                              | Tecnologías                 | Link                                                                 |
+|-----------------------------|----------------------------------------------------------|-----------------------------|----------------------------------------------------------------------|
+| 🔐 Ethical Hacking Lab      | Simulación de ataques controlados y análisis de vulnerabilidades | Kali Linux, Wireshark       | [Ver Repositorio](https://github.com/TU_USUARIO/ethical-hacking-lab) |
+| 📊 Power BI Dashboard       | Análisis visual de accidentes de tránsito en EE. UU.     | Power BI, Python, CSV       | [Ver Repositorio](https://github.com/TU_USUARIO/powerbi-traffic-dashboard) |
+| 🌐 Sistema Web Lavandería   | Gestión de producción, comercialización y reportes       | Flask, PostgreSQL, AWS      | [Ver Repositorio](https://github.com/TU_USUARIO/laundry-management-system) |
+| 🤖 Clasificador IA          | Clasificador de diagnósticos médicos con Random Forest   | Python, Scikit-learn        | [Ver Repositorio](https://github.com/TU_USUARIO/medical-diagnosis-classifier) |
 
 ---
 
 ## 📄 Currículum
 
-- [CV en Español](resume/CV_Cristhian_Proano_ES.docx)
+- [CV en Español](resume/CV_Cristhian_Proano_ES.pdf)
 - [CV en Inglés](resume/CV_Cristhian_Proano_EN.docx)
 
 ---
